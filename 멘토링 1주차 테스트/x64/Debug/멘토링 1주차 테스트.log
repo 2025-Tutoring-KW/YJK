@@ -1,0 +1,4 @@
+﻿  테스트.cpp
+C:\Users\younj\OneDrive\바탕 화면\CookC\멘토링 1주차 테스트\테스트.cpp(16,13): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\younj\OneDrive\바탕 화면\CookC\멘토링 1주차 테스트\테스트.cpp(16,13): warning C4313: 'printf': 서식 문자열의 '%c'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+  멘토링 1주차 테스트.vcxproj -> C:\Users\younj\OneDrive\바탕 화면\CookC\멘토링 1주차 테스트\x64\Debug\멘토링 1주차 테스트.exe
